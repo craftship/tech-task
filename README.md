@@ -13,7 +13,7 @@ Feel free to spend as much or as little time on the exercise as you like, we do 
 * The page **must** render isomorphically / universally.
 * User stories below are satisfied.
 * A `README.md` should state the exact commands for the app to run.
-* Ensure the [`FOLLOWUP.md`](https://github.com/craftship/beer/blob/master/FOLLOWUP.md) questions are answered.
+* Ensure the [`FOLLOWUP.md`](https://github.com/craftship/tech-task/blob/master/FOLLOWUP.md) questions are answered.
 * Feel free to use whatever frameworks / libraries / packages you like.
 * Have fun with it :D
 
@@ -66,7 +66,7 @@ So that I know I am at the end of the beers
 
 
 ### Submission Guide
-1. Ensure [`FOLLOWUP.md`](https://github.com/craftship/beer/blob/master/FOLLOWUP.md) has been filled in and included in your project
+1. Ensure [`FOLLOWUP.md`](https://github.com/craftship/tech-task/blob/master/FOLLOWUP.md) has been filled in and included in your project
 1. Zip your coding challenge without installable dependencies such as `node_modules`
 2. Name your zip file as `beer-browser.firstname.lastname.zip` (e.g. `beer-browser.john.doe.zip`)
 3. E-mail your submission to `submissions@craftship.io`
